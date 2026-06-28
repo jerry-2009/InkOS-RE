@@ -1,0 +1,12 @@
+{
+  "id": "system.hello",
+  "name": "你好",
+  "version": "1.0.0",
+  "entry": "main.py",
+  "icon": "icon.txt",
+  "api": 1,
+  "author": "InkOS",
+  "permissions": [],
+  "autostart": false,
+  "min_inkos": "0.1.0"
+}

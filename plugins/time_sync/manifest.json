@@ -1,0 +1,12 @@
+{
+  "id": "system.time_sync",
+  "name": "联网对时",
+  "version": "1.0.0",
+  "entry": "main.py",
+  "api": 1,
+  "author": "InkOS",
+  "category": "system",
+  "permissions": ["network", "time", "http"],
+  "autostart": true,
+  "min_inkos": "0.1.0"
+}

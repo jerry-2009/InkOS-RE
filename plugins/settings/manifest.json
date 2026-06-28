@@ -1,0 +1,12 @@
+{
+  "id": "system.settings",
+  "name": "设置",
+  "version": "1.0.0",
+  "entry": "main.py",
+  "api": 1,
+  "author": "InkOS",
+  "category": "system",
+  "permissions": ["settings"],
+  "autostart": false,
+  "min_inkos": "0.1.0"
+}

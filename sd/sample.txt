@@ -1,0 +1,11 @@
+InkOS TXT Reader sample.
+
+Put your .txt files anywhere under /sd, except system folders like /sd/plugins and /sd/data.
+
+Controls:
+UP: previous page
+DOWN: next page
+SELECT: change font size
+BACK: return to file list
+
+Progress is saved per file.

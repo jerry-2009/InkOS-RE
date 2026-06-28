@@ -1,0 +1,12 @@
+{
+  "id": "system.http",
+  "name": "文件服务",
+  "version": "1.0.0",
+  "entry": "main.py",
+  "api": 1,
+  "author": "InkOS",
+  "category": "system",
+  "permissions": ["http", "fs.read", "fs.write"],
+  "autostart": false,
+  "min_inkos": "0.1.0"
+}
